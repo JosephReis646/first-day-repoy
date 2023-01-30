@@ -1,1 +1,2 @@
-# first-day-repoy
+# first-day-repo
+lets get started
